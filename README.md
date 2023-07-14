@@ -47,7 +47,9 @@ This repository contains code for performing image classification using TensorFl
 
 ## Model Usage and Saving
 
-- The model is saved to a file (`model/modelfinal.h5`) for future use.
+- The model is saved to a file  for future use.
+  ``` bash
+  model/modelfinal.h5
 - A sample image is loaded and preprocessed for prediction.
 - The saved model is loaded and used to predict the class of the sample image.
 
