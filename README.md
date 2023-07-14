@@ -4,7 +4,7 @@ This project is divided into two parts:
 1. Making the Detection Model
 2. Making the detection system
 
-# 1. Model crreation part
+# 1. Model creation part
 
 ## Image Classification with TensorFlow
 
