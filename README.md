@@ -49,7 +49,7 @@ This repository contains code for performing image classification using TensorFl
 
 - The model is saved to a file  for future use.
   ``` bash
-  model/modelfinal.h5
+  [model/modelfinal.h5](https://github.com/JereStrath/Stego_Project001/blob/main/model/modelfinal.h5)
 - A sample image is loaded and preprocessed for prediction.
 - The saved model is loaded and used to predict the class of the sample image.
 
