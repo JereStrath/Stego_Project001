@@ -4,9 +4,9 @@ This project is divided into two parts:
 1. Making the Detection Model
 2. Making the detection system
 
-## 1. Model crreation part
+# 1. Model crreation part
 
-# Image Classification with TensorFlow
+## Image Classification with TensorFlow
 
 This repository contains code for performing image classification using TensorFlow and Keras. The code is organized into several sections, each serving a specific purpose. Below is an overview of the code functionality:
 
@@ -57,7 +57,7 @@ Please note that the code provided is a combination of different parts, and some
 For detailed implementation and usage instructions, please refer to the code comments and documentation.
 
 
-## 2. Making of the Detection System
+# 2. Making of the Detection System
 
 The Stegomalware Detection System is an application that uses machine learning techniques to detect the presence of stegomalware in images. It allows users to upload suspicious images and performs a prediction on whether the image contains stegomalware or not.
 
