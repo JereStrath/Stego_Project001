@@ -18,6 +18,9 @@ This repository contains code for performing image classification using TensorFl
 ## Dataset Preparation
 
 - The dataset is assumed to be located in the `train` directory.
+- You can find the dataset using the link below:
+  ``` bash
+  https://www.kaggle.com/datasets/marcozuppelli/stegoimagesdataset
 - Supported image file extensions: jpeg, jpg, bmp, and png.
 - Images and labels are loaded, preprocessed, and stored in separate lists.
 - Batch processing is performed with further preprocessing (e.g., normalization, one-hot encoding).
@@ -44,7 +47,7 @@ This repository contains code for performing image classification using TensorFl
 
 ## Model Usage and Saving
 
-- The model is saved to a file (`modelfinal.h5`) for future use.
+- The model is saved to a file (`model/modelfinal.h5`) for future use.
 - A sample image is loaded and preprocessed for prediction.
 - The saved model is loaded and used to predict the class of the sample image.
 
